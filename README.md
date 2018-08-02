@@ -1,1 +1,1 @@
-# find xss
+# buscando la vulnerabilidad Cross-site-scripting(xss)
